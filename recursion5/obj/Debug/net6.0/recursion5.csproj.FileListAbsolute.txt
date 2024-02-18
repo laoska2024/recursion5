@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\DATASCIENCE Таня\3 Введение в языки программирования\Рекурсия\sem_5\recursion5\bin\Debug\net6.0\recursion5.exe
+C:\Users\User\Desktop\DATASCIENCE Таня\3 Введение в языки программирования\Рекурсия\sem_5\recursion5\bin\Debug\net6.0\recursion5.deps.json
+C:\Users\User\Desktop\DATASCIENCE Таня\3 Введение в языки программирования\Рекурсия\sem_5\recursion5\bin\Debug\net6.0\recursion5.runtimeconfig.json
+C:\Users\User\Desktop\DATASCIENCE Таня\3 Введение в языки программирования\Рекурсия\sem_5\recursion5\bin\Debug\net6.0\recursion5.dll
+C:\Users\User\Desktop\DATASCIENCE Таня\3 Введение в языки программирования\Рекурсия\sem_5\recursion5\bin\Debug\net6.0\recursion5.pdb
+C:\Users\User\Desktop\DATASCIENCE Таня\3 Введение в языки программирования\Рекурсия\sem_5\recursion5\obj\Debug\net6.0\recursion5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DATASCIENCE Таня\3 Введение в языки программирования\Рекурсия\sem_5\recursion5\obj\Debug\net6.0\recursion5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DATASCIENCE Таня\3 Введение в языки программирования\Рекурсия\sem_5\recursion5\obj\Debug\net6.0\recursion5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DATASCIENCE Таня\3 Введение в языки программирования\Рекурсия\sem_5\recursion5\obj\Debug\net6.0\recursion5.AssemblyInfo.cs
+C:\Users\User\Desktop\DATASCIENCE Таня\3 Введение в языки программирования\Рекурсия\sem_5\recursion5\obj\Debug\net6.0\recursion5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DATASCIENCE Таня\3 Введение в языки программирования\Рекурсия\sem_5\recursion5\obj\Debug\net6.0\recursion5.dll
+C:\Users\User\Desktop\DATASCIENCE Таня\3 Введение в языки программирования\Рекурсия\sem_5\recursion5\obj\Debug\net6.0\refint\recursion5.dll
+C:\Users\User\Desktop\DATASCIENCE Таня\3 Введение в языки программирования\Рекурсия\sem_5\recursion5\obj\Debug\net6.0\recursion5.pdb
+C:\Users\User\Desktop\DATASCIENCE Таня\3 Введение в языки программирования\Рекурсия\sem_5\recursion5\obj\Debug\net6.0\recursion5.genruntimeconfig.cache
+C:\Users\User\Desktop\DATASCIENCE Таня\3 Введение в языки программирования\Рекурсия\sem_5\recursion5\obj\Debug\net6.0\ref\recursion5.dll
